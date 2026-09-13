@@ -15,7 +15,7 @@
 //     return 0;
 // }
 
-C++
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
