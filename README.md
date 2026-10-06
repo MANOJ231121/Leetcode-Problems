@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0015-3sum) |
+| [0485-max-consecutive-ones](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
