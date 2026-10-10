@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
