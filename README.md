@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
