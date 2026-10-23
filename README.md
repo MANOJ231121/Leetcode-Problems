@@ -100,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
