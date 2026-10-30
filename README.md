@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
