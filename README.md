@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2235-add-two-integers](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2235-add-two-integers) |
 ## Quicksort
 |  |
