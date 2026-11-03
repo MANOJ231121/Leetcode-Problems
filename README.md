@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
