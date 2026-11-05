@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -151,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
