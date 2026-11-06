@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2235-add-two-integers](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2235-add-two-integers) |
 ## Quicksort
