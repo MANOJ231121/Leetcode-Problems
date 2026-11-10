@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -158,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
