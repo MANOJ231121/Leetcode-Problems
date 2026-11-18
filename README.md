@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2235-add-two-integers](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2235-add-two-integers) |
 ## Quicksort
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
