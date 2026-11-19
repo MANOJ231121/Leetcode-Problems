@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0904-fruit-into-baskets](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -18,11 +19,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 ## Array
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
@@ -129,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 ## Math
 |  |
 | ------- |
@@ -175,4 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
