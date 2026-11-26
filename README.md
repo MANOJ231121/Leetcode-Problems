@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2235-add-two-integers](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/2235-add-two-integers) |
+| [3360-stone-removal-game](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/MANOJ231121/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Rolling Hash
 |  |
 | ------- |
